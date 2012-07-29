@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ypvk.github.com/atom.xml" rel="self"/>
   <link href="http://ypvk.github.com/"/>
-  <updated>2012-07-29T21:57:58+08:00</updated>
+  <updated>2012-07-29T23:16:34+08:00</updated>
   <id>http://ypvk.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ypp]]></title>
+    <link href="http://ypvk.github.com/blog/2012/07/29/ypp/"/>
+    <updated>2012-07-29T23:01:00+08:00</updated>
+    <id>http://ypvk.github.com/blog/2012/07/29/ypp</id>
+    <content type="html"><![CDATA[<p>dsds</p>
+
+<h2>djksjkd</h2>
+
+<h1>sdjdkjks</h1>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[first blog]]></title>
+    <link href="http://ypvk.github.com/blog/2012/07/29/first-blog/"/>
+    <updated>2012-07-29T22:02:00+08:00</updated>
+    <id>http://ypvk.github.com/blog/2012/07/29/first-blog</id>
+    <content type="html"><![CDATA[<hr />
+
+<h2>yupingseu</h2>
+]]></content>
+  </entry>
   
 </feed>
